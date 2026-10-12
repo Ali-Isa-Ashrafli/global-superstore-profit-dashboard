@@ -8,13 +8,17 @@
 
 </div>
 
+## 📸 Dashboard
+
+<p align="center"><img src="images/dashboard.png" alt="Dashboard preview" width="100%"/></p>
+
 ---
 
 ## ❓ Business questions
 
 - Which regions and cities are the most profitable?
 - Which product categories drive profit in the top cities?
-- Who are the most valuable customers?
+- Which product categories generate the most sales?
 - How do discounts affect profitability over time?
 
 ## 🗂 Data
@@ -23,11 +27,25 @@ Global Superstore orders data — **market, region, city, customer, category, sa
 
 ## 📊 What's inside
 
-- **KPI cards** — total sales and profit
-- **Sum of Profit by Top 5 Regions**
+- **KPI cards** — total sales and total profit
+- **Sum of Quantity by Discount and Market** — stacked area chart (APAC, EMEA, LATAM, USCA)
 - **Sum of Profit by Top 5 Cities and Category**
-- Customer ranking and profit trend (stacked area chart)
-- **Market slicer** to filter the whole page
+- **Sum of Profit by Top 5 Regions**
+- **Sum of Sales by Category**
+- **Customer Name slicer** to analyse any individual customer
+
+## 🔢 Headline KPIs
+
+| Total sales | Total profit | Profit margin |
+|:-:|:-:|:-:|
+| **12.64M** | **1.47M** | **≈11.6%** |
+
+## 💡 Key insights
+
+- **Technology** is the top-selling category, ahead of Furniture and Office Supplies.
+- **North Asia** is the most profitable region, followed by South and Oceania; **Southeast Asia** lags far behind.
+- Higher discounts sharply reduce quantity sold in every market — the volume effect of discounting fades as discounts approach 100%.
+- At city level, **Zurich** stands out with strong Furniture and Technology profit, while some cities show **negative profit** in Office Supplies.
 
 ## 🧠 Skills demonstrated
 
